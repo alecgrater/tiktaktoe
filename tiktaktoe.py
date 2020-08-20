@@ -2,6 +2,8 @@ import pygame
 import sys
 pygame.init()
 
+#adding comment to see if git works
+
 #initialize the display
 width = 600
 height = 600
