@@ -12,12 +12,12 @@ This is a simple Tic Tac Toe game implemented in Python using Pygame.
 2. Navigate to the project directory:
 
   ```shell
-     cd tic-tac-toe
+     cd tic-tac-toe```
 
 3. Install the required dependencies:
 
   ```shell
-     pip install pygame
+     pip install pygame```
 
 
 ## How It Works
